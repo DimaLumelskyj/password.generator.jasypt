@@ -56,7 +56,7 @@ Lombok plugin for IDEA
 Cloning project
 
 ```
-git clone https://github.com/DimaLumelskyj/COVID19-Data-Grabber.git
+git clone https://github.com/DimaLumelskyj/password.generator.jasypt.git
 ```
 
 ## Deployment
@@ -66,12 +66,12 @@ This Spring Boot application can be started in a few ways
 Using IDEA
 
 ```
-Run the main method from Covid19 data scrapper application (Covid19Application.main())
+Run the main method from Covid19 data scrapper application (Application.main())
 ```
 
 Packaging the application as a JAR and run it
 ```
-mvn clean package && java -jar target/covid19-0.0.1-SNAPSHOT.jar
+mvn clean package && java -jar target/password.generator.jasypt-0.0.1-SNAPSHOT.jar
 ```
 
 Using Maven Spring Boot plugin
