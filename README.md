@@ -2,14 +2,14 @@
 <h1 align="center">
   <img src="encrypt.svg" alt="Jasypt data encryption REST API" width="200">
   <br>
-  Disease history data grabber
+  Text Encryption using Jasypt library
 </h1>
 
 # Description
 This project is a rest api with endpoints to encrypc and decrypt text.
 
 Application features: 
-- Jasypt encryptor/decryptor library used.
+- <a href="http://www.jasypt.org/cli.html">Jasypt</a> encryptor/decryptor library used.
 - As an core algorithm is used ```PBEWithHMACSHA512AndAES_256```.
 
 # Endpoints
